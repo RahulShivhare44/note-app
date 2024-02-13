@@ -4,7 +4,7 @@ import loginImg from '../assets/login.png'
 
 export default function Login({ setIsLoggedIn }) {
   return (
-    <div>
+    <div className='bg-richblack-900'>
 
       <Template
         title="Welcome Back"

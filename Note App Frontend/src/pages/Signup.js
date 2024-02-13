@@ -4,7 +4,7 @@ import signupImg from '../assets/signup.png'
 
 export default function Signup({ setIsLoggedIn }) {
   return (
-    <div>
+    <div className='bg-richblack-900'>
       <Template
         title="Join the millions people to write a note with GoodNotes for free"
         desc1="Create a note for today, tomorrow, and beyond."
